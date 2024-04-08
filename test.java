@@ -19,5 +19,6 @@ public class SumaDosNumeros {
         System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
         System.out.println("¡Programa finalizado!");
         System.out.println("Chao");
+        System.out.println("Buenos dias");
     }
 }
