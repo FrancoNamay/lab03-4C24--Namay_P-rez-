@@ -21,6 +21,7 @@ public class DivisionDosNumeros {
             
             // Mostrar el resultado
             System.out.println("El resultado de la división de " + numero1 + " entre " + numero2 + " es: " + division);
-        }
+            
+        }   
     }
 }
